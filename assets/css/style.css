@@ -192,20 +192,6 @@ h3, h2, {
   background: #4aaaa5;
   border-bottom: 0;
 }
-.work h5 {
-  position: absolute;
-  opacity: 0.9;
-  bottom: 20px;
-  width: 100%;
-  padding: 15px;
-  margin-bottom: 0;
-  font-weight: 300;
-  line-height: 30px;
-  color: #fff;
-  text-align: center;
-  background: #4aaaa5;
-  border-bottom: 0;
-}
 
 .auth-image {
   float: left;
